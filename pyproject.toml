@@ -3,13 +3,15 @@ requires = ["uv_build >= 0.9.21, <0.10.0"]
 build-backend = "uv_build"
 
 [project]
-name = "pypackage_template"
+name = "pykemon"
 version = "0.0.1"
 description = "A small example package managed with uv"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "polars==1.37.0",
+    "bs4>=0.0.2",
+    "duckdb>=1.5.1",
+    "requests>=2.33.0",
 ]
 authors = [
   { name = "J. Hathaway", email = "hathawayj@byui.edu" },
@@ -25,12 +27,17 @@ maintainers = [
 dev = [
     "pytest",
     "ruff",
-    { path = ".", develop = true },
 ]
 
 [project.scripts]
 my-uv-cli = "my_uv_package.cli:main"
 
 [tool.uv]
+
+[dependency-groups]
+dev = [
+    "polars>=1.39.3",
+    "pyarrow>=23.0.1",
+]
 # Here you can put uv-specific configuration if needed later
 # (you can leave this section out entirely for the simplest case)

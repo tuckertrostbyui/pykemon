@@ -1,0 +1,307 @@
+ability_name,effect
+Wind Power,"If a Pokémon with Wind Power is hit by a wind move, the power of the next Electric-type move it uses is doubled."
+Pickpocket,Steals an item when hit by another Pokémon.
+Water Bubble,"Water Bubble reduces damage taken from Fire-type moves by 50%, and doubles the power of Water-type moves used by the ability-bearer. It also prevents the Pokémon from being burned."
+Fairy Aura,"Fairy Aura raises the power of Fairy-type moves by 33%, for all Pokémon on the field (not just the ability-bearer)."
+Neuroforce,Powers up moves that are super effective.
+Color Change,"Color Change changes the ability-bearer's type, when hit by a damage dealing move, to the type of that move. For example being hit by X Scissor will change the Pokémon to Bug -type. Dual-type Pokémon change to single-types."
+Huge Power,Raises the Pokémon's Attack stat.
+Marvel Scale,"Marvel Scale raises the ability-bearer's Defense by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep)."
+Limber,The Pokémon is protected from paralysis.
+Chilling Neigh,Boosts Attack after knocking out a Pokémon.
+Shield Dust,Blocks the added effects of attacks taken.
+Snow Cloak,Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type).
+Battle Bond,Battle Bond causes Greninja to transform into Ash-Greninja when it KOs an opponent.
+Turboblaze,"Turboblaze prevents a target's ability from affecting moves that the Turboblaze Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+Desolate Land,Desolate Land creates extremely harsh sunlight when the ability is activated (by Groudon reverting to its Primal form).
+Slush Rush,Boosts the Pokémon's Speed stat in a hailstorm.
+Volt Absorb,"A Pokémon with Volt Absorb heals 1 ⁄ 4 of its maximum HP when hit by an Electric -type attack, including Thunder Wave ."
+Speed Boost,Its Speed stat is gradually boosted.
+Mycelium Might,"Status moves go last, but are not affected by the opponent's ability."
+Stamina,Stamina raises the bearer's Defense by one stage when it is attacked by any move.
+Seed Sower,Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.
+Surge Surfer,Surge Surfer doubles the bearer's Speed when Electric Terrain is active.
+Poison Heal,Restores HP if the Pokémon is poisoned.
+Well-Baked Body,"Immune to Fire-type moves, and Defense is sharply boosted."
+Defiant,Defiant raises the ability-bearer's Attack by two stages when hit by a stat-lowering move.
+Forewarn,Determines what moves a foe has.
+Illusion,"When a Pokémon with the Illusion ability switches into battle, it takes the form of the Pokémon in last place (6th) of the player's party. Illusion will not activate if the Pokémon in last place is the same species or is fainted."
+Mind's Eye,"The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal- and Fighting-type moves."
+Normalize,"Normalize causes all moves used by the Pokémon to become Normal -type, and attacking moves increase in power by 20%."
+Stakeout,Stakeout enables the Pokémon to deal twice the normal damage to any Pokémon that switches in or enters the field mid-battle.
+Fluffy,"Fluffy reduces damage from contact moves by 50%, but Fire-type moves do double damage. Fire-type moves that make contact do regular damage."
+Dark Aura,Dark Aura raises the power of Dark-type moves by 33% for all Pokémon on the field (not just the ability-bearer).
+Effect Spore,Contact may poison or cause paralysis or sleep.
+Disguise,"Disguise allows the bearer to avoid damage for one attack, in a similar way to Substitute ."
+Grassy Surge,"Grassy Surge creates a low-lying grassy field, like the move Grassy Terrain , when the Pokémon enters battle. It restores the HP of grounded Pokémon each turn and increases the power of Grass type attacks."
+Wimp Out,Wimp Out causes the bearer to switch out (or flee in a wild battle) when its HP falls below 50%.
+Drought,"Drought creates harsh sunlight when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+Transistor,Transistor increases the power of Electric-type moves used by this Pokémon by 50%.
+Toxic Debris,Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.
+Screen Cleaner,"Nullifies effects of Light Screen, Reflect, and Aurora Veil."
+Oblivious,"Oblivious makes the Pokémon immune to gender-based moves and abilities, specifically Attract , Captivate and Cute Charm ."
+Beads of Ruin,Lowers Special Defense of all Pokémon except itself.
+Power of Alchemy,The Pokémon copies the Ability of a defeated ally.
+Early Bird,The Pokémon awakens quickly from sleep.
+Water Veil,Prevents the Pokémon from getting a burn.
+Sand Force,"Sand Force raises the power of Ground , Rock and Steel type moves by 30% during a sandstorm ."
+Insomnia,"Insomnia prevents the ability-bearer from falling asleep, both from moves by other Pokémon like Sing , and self-inflicted sleep like Rest ."
+Wandering Spirit,Swaps abilities with opponents on contact.
+Magician,The Pokémon steals the held item of a Pokémon it hits with a move.
+Torrent,Torrent increases the power of Water -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch ).
+Competitive,Competitive raises the ability-bearer's Special Attack by two stages when hit by a stat-lowering move.
+Tera Shift,"When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form."
+Imposter,It transforms itself into the Pokémon it is facing.
+Rattled,"When a Pokémon with Rattled is hit by a Bug , Ghost or Dark type move, its Speed is raised one stage (up to the usual maximum of +6 stages)."
+Sturdy,"Sturdy allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves ( Fissure , Horn Drill , Guillotine or Sheer Cold )."
+Shell Armor,Shell Armor prevents the Pokémon from receiving a critical hit.
+Soul-Heart,Soul-Heart raises the bearer's Special Attack one stage when any Pokémon on the field faints.
+Truant,"Truant causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is loafing around ."
+Contrary,Makes stat changes have an opposite effect.
+Flare Boost,Powers up special attacks when burned.
+Intrepid Sword,Boosts Attack in battle.
+Battery,Battery allows the Pokémon to raise the power of teammates' special moves.
+Sweet Veil,"Sweet Veil prevents this Pokémon and its allies from falling asleep, for example from moves like Hypnosis ."
+Solar Power,"During harsh sunlight, Solar Power raises the ability-bearer's Special Attack by 50%, but it also loses 1 ⁄ 8 of its maximum HP after each turn."
+Cloud Nine,"Cloud Nine suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on."
+Rocky Payload,Rocky Payload increases the power of Rock-type moves used by this Pokémon by 50%.
+Dry Skin,Dry Skin causes several effects:
+Misty Surge,"Misty Surge creates a low-lying mist, like the move Misty Terrain , when the bearer enters battle. It protects all grounded Pokémon from status conditions and halves the power of Dragon type attacks."
+Super Luck,Super Luck raises the ability-bearer's critical-hit ratio by one stage (for most moves this increases from a 1 ⁄ 16 chance to 1 ⁄ 8 ).
+Rough Skin,"When a Pokémon with Rough Skin is hit by a move that makes contact, the attacker receives damage equal to 1 ⁄ 8 of their maximum HP."
+Innards Out,"When a Pokémon with Innards Out faints, it deals damage to the opponent equal to amount of damage it took on the final blow."
+Stall,The Pokémon moves after all other Pokémon do.
+Skill Link,Skill Link causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as Double Kick that always strike the same number of times are not affected.
+Healer,May heal an ally's status conditions.
+Guard Dog,"Boosts Attack if intimidated, and prevents being forced to switch out."
+Water Absorb,A Pokémon with Water Absorb heals 1 ⁄ 4 of its maximum HP when hit by a Water -type attack.
+Filter,Filter reduces the damage taken from super-effective attacks by 25%.
+Tinted Lens,Powers up “not very effective” moves.
+Embody Aspect,"Embody Aspect boosts a particular stat, depending on the form of a Terastallized Ogerpon :"
+Cheek Pouch,"Cheek Pouch restores the bearer's HP when a Berry is consumed, on top of the berry's usual effects."
+Orichalcum Pulse,"Turns the sunlight harsh when entering battle, and boosts Attack while active."
+Inner Focus,"Inner Focus prevents the Pokémon from flinching, for example when attacked by a move like Headbutt ."
+Toxic Chain,Toxic Chain may cause bad poisoning when the Pokémon hits an opponent with a move.
+Sand Spit,Creates a sandstorm when hit by an attack.
+Tablets of Ruin,Lowers Attack of all Pokémon except itself.
+Frisk,The Pokémon can check a foe's held item.
+Wonder Skin,Wonder Skin halves the accuracy of all status moves targeted at the ability-bearer.
+Compound Eyes,Compound Eyes raises the ability-bearer's accuracy by 30%.
+Solid Rock,Solid Rock reduces the damage taken from super-effective attacks by 25%.
+Multitype,Multitype changes the ability-bearer's type if it is holding one of the Type Plate items. Moves of the corresponding type receive STAB .
+Illuminate,Illuminate has no effect in battle.
+Dauntless Shield,Boosts Defense in battle.
+Run Away,"Run Away allows the bearer to flee a battle with a wild Pokémon without fail, even if the opposing Pokémon has used a move like Mean Look or Bind , or has an ability such as Arena Trap ."
+Friend Guard,Reduces damage done to allies.
+Pure Power,Raises the Pokémon's Attack stat.
+Grass Pelt,Boosts the Defense stat in Grassy Terrain.
+Soundproof,"Soundproof grants the Pokémon immunity to all sound-based moves, preventing all damage and effects."
+Aroma Veil,Protects allies from attacks that limit their move choices.
+Poison Point,Contact with the Pokémon may poison the attacker.
+Synchronize,"If the opponent causes a burn, paralysis, or poisoning of a Pokémon with Synchronize , the opponent receives the status condition too. Self-inflicted status conditions (for example through the use of an item) are not passed on."
+Curious Medicine,Resets all stat changes upon entering battlefield.
+Symbiosis,The Pokémon can pass an item to an ally.
+Moody,Raises one stat and lowers another.
+Earth Eater,Restores HP when hit by a Ground-type move.
+Cotton Down,"When a Pokémon with Cotton Down is hit by an attack, it lowers the attacker's Speed."
+Damp,Damp prevents all Pokémon on the field from using the moves Selfdestruct and Explosion . It also prevents damage (to the Damp Pokémon only) from the ability Aftermath .
+Ball Fetch,"If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."
+Pixilate,"Pixilate causes all Normal -type attacking moves used by the Pokémon to become Fairy -type, and increase in power by 20%."
+Galvanize,Normal-type moves become Electric-type moves and their power boosted.
+Queenly Majesty,Prevents use of priority moves.
+Libero,Libero changes the Pokémon's type to that of its previously used attack.
+Moxie,Moxie increases the user's Attack one stage upon fainting an opponent.
+Unseen Fist,Contact moves can strike through Protect/Detect.
+Sniper,Sniper increases the power of critical hits by 1.5×. This means a critical hit will deal 2.25× normal damage instead of 1.5×.
+Teraform Zero,"When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero."
+Shadow Shield,Reduces damage when HP is full.
+Dancer,"When another Pokémon on the field uses any Dance move, Dancer causes the ability-bearer to use that same move immediately afterward. They will still use their own move originally selected, at the usual time (e.g. after the opponent if they are slower)."
+Pastel Veil,Pastel Veil prevents the Pokémon and its teammates from being poisoned. It also cures teammates of poisoning when it enters the battlefield.
+Rock Head,Protects the Pokémon from recoil damage.
+Mummy,Contact with this Pokémon spreads this Ability.
+Anger Shell,"When the Pokémon's HP drops below half, Anger Shell lowers its Defense and Special Defense but its Attack, Special Attack and Speed are raised."
+Electromorphosis,"If a Pokémon with Electromorphosis is hit by an attack, the power of the next Electric-type move it uses is doubled."
+Schooling,"Schooling changes Wishiwashi into its School Form, if its HP is above 25% and Wishiwashi is at least level 20. If its HP falls below 25%, Wishiwashi will revert back to Solo Form."
+Supersweet Syrup,"A sickly sweet scent spreads across the field the first time the Pokémon enters a battle, lowering the evasiveness of opposing Pokémon."
+Sap Sipper,Boosts Attack when hit by a Grass-type move.
+Infiltrator,"Infiltrator ignores the effects of Reflect , Light Screen and Safeguard . In other words, if the opponent has used Safeguard, Toxic would still badly poison them."
+Shadow Tag,Prevents the foe from escaping.
+Pressure,Pressure makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1.
+Plus,Ups Sp. Atk if another Pokémon has Plus or Minus.
+Swift Swim,Swift Swim doubles the ability-bearer's Speed during rain .
+Shields Down,Shields Down causes the Pokémon to changes its appearance and stats depending on its remaining HP.
+Gluttony,"A Pokémon with Gluttony will use a pinch berry when its HP drops to 50%, rather than the usual 25%."
+Honey Gather,Honey Gather has no effect in battle.
+Triage,"Triage increases the priority of HP-restoring moves to +3, when used by the ability-bearer."
+Unnerve,Makes the foe nervous and unable to eat Berries.
+Cud Chew,Cud Chew causes the Pokémon to reuse an already consumed Berry at the end of the next turn.
+Drizzle,"Drizzle creates a rain shower when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+Intimidate,Intimidate lower's the Attack of all opponents by one stage when the ability-bearer switches in (including the start of a battle).
+Cursed Body,May disable a move used on the Pokémon.
+Motor Drive,Raises Speed if hit by an Electric-type move.
+Clear Body,Prevents other Pokémon from lowering its stats.
+Power Spot,Just being next to the Pokémon powers up moves.
+Receiver,A Pokémon with Receiver will inherit the ability of a teammate in a double/triple battle when that teammate faints.
+Rain Dish,"A Pokémon with Rain Dish will recover 1 ⁄ 16 of its maximum HP during rain, after each turn."
+Neutralizing Gas,Neutralizes abilities of all Pokémon in battle.
+Heatproof,"Heatproof reduces the damage taken from Fire -type moves by 50%. It also halves the damage from a burn, from 1 ⁄ 8 to 1 ⁄ 16 of the Pokémon's maximum HP."
+Natural Cure,All status problems heal when it switches out.
+Primordial Sea,Primordial Sea creates heavy rain when the ability is activated (by Kyogre reverting to its Primal form).
+Magma Armor,"Magma Armor prevents the Pokémon from becoming frozen, for example from moves like Blizzard ."
+Electric Surge,"Electric Surge creates a low-lying electric field, like the move Electric Terrain , when the Pokémon enters battle. It prevents grounded Pokémon from falling asleep, and increases the power of Electric type attacks."
+Protean,Protean changes the Pokémon's type to that of its previously used attack.
+Dazzling,Dazzling makes the Pokémon immune to high-priority moves (i.e. those with a priority above 0).
+Magic Bounce,Reflects status- changing moves.
+Psychic Surge,"Psychic Surge creates a low-lying psychic field, like the move Psychic Terrain , when the Pokémon enters battle. It prevents high-priority moves being used and increases the power of Psychic type attacks."
+Immunity,Prevents the Pokémon from getting poisoned.
+Flower Veil,"Flower Veil prevents ally Grass-type Pokémon's stats from being lowered, in double and triple battles."
+Adaptability,Adaptability increases the effectiveness of STAB moves from the usual 1.5× to 2×.
+Aerilate,"Aerilate causes all Normal -type attacking moves used by the Pokémon to become Flying -type, and increase in power by 20%."
+Merciless,The Pokémon's attacks become critical hits if the target is poisoned.
+Quark Drive,"Raises highest stat on Electric Terrain, or if holding Booster Energy."
+Overcoat,Overcoat makes the Pokémon immune to residual damage from weather conditions (specifically Hail and Sandstorm ).
+Stench,A Pokémon with Stench has a 10% chance of causing the opponent to flinch when hit by a damaging move (provided the ability-bearer strikes first as usual).
+Air Lock,"Air Lock suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on."
+Forecast,Castform transforms with the weather.
+Mold Breaker,"Mold Breaker prevents a target's ability from affecting moves that the Mold Breaker Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+Hunger Switch,"Hunger Switch causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode. Morpeko's form also changes the type of its signature move, Aura Wheel ."
+Lightning Rod,"Lightning Rod forces all single-target Electric -type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. This includes the status move Thunder Wave . The ability is most useful in double/triple battles."
+Dragon's Maw,Dragon's Maw increases the power of Dragon-type moves used by this Pokémon by 50%.
+Sheer Force,"Sheer Force increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects."
+Sand Rush,Sand Rush doubles the ability-bearer's Speed during a sandstorm .
+Gooey,Contact with the Pokémon lowers the attacker's Speed stat.
+Harvest,May create another Berry after one is used.
+Sand Stream,"Sand Stream creates a sandstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+Zero to Hero,Transforms into its Hero Form when switching out.
+Mimicry,Changes type depending on the terrain.
+Emergency Exit,Switches out when HP falls below 50%.
+Lingering Aroma,Contact changes the attacker's Ability to Lingering Aroma.
+Wonder Guard,"Wonder Guard prevents damage from direct attacks unless they are super-effective. Shedinja is the only Pokémon to have this ability so this means that only Fire , Flying , Rock , Ghost and Dark moves will have an effect."
+Cute Charm,"If a Pokémon with Cute Charm is hit by a move that makes contact, there is a 30% chance the attacker will become infatuated. It will not infatuate Pokémon of the same gender, genderless Pokémon, nor those with the ability Oblivious ."
+Armor Tail,"Armor Tail prevents the opponent from using any moves that have priority, such as Quick Attack ."
+Sticky Hold,Sticky Hold prevents held items from being taken or switched.
+Flash Fire,"When a Pokémon with Flash Fire is hit by a Fire-type move, it does not deal damage but instead raises the power of the bearer's Fire-type moves by 50%. Subsequent hits do not raise the power even more, but the effect remains while the ability-bearer is in battle."
+Gale Wings,Gives priority to Flying-type moves.
+Full Metal Body,Prevents other Pokémon from lowering its stats.
+Hustle,"Hustle increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%."
+Weak Armor,"When a Pokémon with Weak Armor is hit by a physical move, its Defense drops one stage, but its Speed increases by one stage."
+Aftermath,"If an attacker faints a Pokémon with Aftermath using a contact move, the attacker will lose 1 ⁄ 4 of their maximum HP."
+Ice Body,"A Pokémon with Ice Body will recover 1 ⁄ 16 of its maximum HP during hail, after each turn. It also grants immunity to the hailstorm damage, if not already immune."
+Supreme Overlord,Attack and Special Attack are boosted for each party Pokémon that has been defeated.
+Serene Grace,"Serene Grace doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items King's Rock and Razor Fang from 10% to 20% (however, note that those items do not affect moves that already have a flinch chance)."
+Blaze,Blaze increases the power of Fire -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch ).
+Vital Spirit,Vital Spirit prevents the ability-bearer from falling asleep. This means that it also prevents the use of the move Rest .
+Fur Coat,Fur Coat reduces damage taken from physical attacks by 50%.
+Light Metal,Light Metal halves the Pokémon's weight in battle. Decreasing weight affects these moves:
+As One,Combines Unnerve and Chilling Neigh/Grim Neigh
+Levitate,Levitate causes the Pokémon to be raised (like Flying -type Pokémon).
+Rivalry,Deals more damage to a Pokémon of same gender.
+Long Reach,The Pokémon uses its moves without making contact with the target.
+White Smoke,"Prevents other Pokémon from lowering its stats. Outside of battle If a Pokémon with White Smoke is the leading party Pokémon, wild Pokémon are only half as likely to appear."
+Purifying Salt,Protects from status conditions and halves damage from Ghost-type moves.
+Flower Gift,Flower Gift raises the Attack and Special Defense of all party Pokémon by 50% during harsh sunlight.
+Tangled Feet,Raises evasion if the Pokémon is confused.
+Mega Launcher,Mega Launcher increases the power of all aura and pulse moves by 50%. Heal Pulse boosts the HP restored by 50%.
+Water Compaction,Water Compaction raises the bearer's Defense by 2 stages when it is hit by a Water-type move.
+Ripen,Doubles the effect of berries.
+Guts,"Guts raises the ability-bearer's Attack by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If burnt, the Pokémon does not suffer the usual drop in Attack."
+Snow Warning,"Snow Warning creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+Prankster,Prankster increases the priority of status moves by +1.
+Poison Touch,May poison targets when a Pokémon makes contact.
+Analytic,Boosts move power when the Pokémon moves last.
+Magnet Pull,Magnet Pull prevents Steel type Pokémon from switching out of battle or fleeing.
+Protosynthesis,"Raises highest stat in harsh sunlight, or if holding Booster Energy."
+Berserk,Berserk raises the Pokémon's Special Attack by one stage when its HP falls below 50%.
+Slow Start,Temporarily halves Attack and Speed.
+Steely Spirit,Powers up ally Pokémon's Steel-type moves.
+Heavy Metal,Heavy Metal doubles the Pokémon's weight in battle. Increasing weight affects these moves:
+Punk Rock,Boosts sound-based moves and halves damage from the same moves.
+Defeatist,"When the HP of a Pokémon with Defeatist falls below 50%, its Attack and Special Attack stats are halved."
+Big Pecks,"Big Pecks prevents the ability-bearer's Defense stat from being lowered, for example via Tail Whip ."
+Klutz,The Pokémon can't use any held items.
+Justified,Justified raises the ability-bearer's Attack by one stage when hit by a damaging Dark -type move.
+Keen Eye,"Keen Eye prevents the Pokémon from losing accuracy, for example from moves like Sand-Attack ."
+Iron Fist,Iron Fist increases the power of all punching moves by 20%.
+Magic Guard,"Magic Guard protects the Pokémon from indirect damage, including:"
+Liquid Ooze,Damages attackers using any draining move.
+Sharpness,Sharpness increases the power of all slicing moves by 50%.
+Overgrow,Overgrow increases the power of Grass -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch ).
+Hydration,"A Pokémon with Hydration will cure itself of any status conditions during rain, at the end of each turn. This includes self-inflicted conditions such as from using Rest ."
+Tough Claws,Tough Claws increases the power of moves that make contact.
+Trace,The Pokémon copies a foe's Ability.
+Telepathy,Pokémon with the Telepathy ability will not take damage from teammates in double and triple battles.
+Tera Shell,The Pokémon’s shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.
+Anticipation,"A Pokémon with Anticipation will shudder upon entering battle, if an opponent has a move that is super-effective against it, or a One-Hit-KO move ( Fissure , Horn Drill , Guillotine or Sheer Cold ). It only activates when the ability-bearer switches in, not when an opponent switches in."
+Unaware,Ignores any stat changes in the Pokémon.
+No Guard,"No Guard ensures that all attacks used by, and targeted at, the ability-bearer hit without fail."
+Parental Bond,"Parental Bond allows the ability-bearer to attack twice. The second attack hits with 25% of the power, so in effect it is equivalent to a 25% boost to all attacks."
+Refrigerate,"Refrigerate causes all Normal -type attacking moves used by the Pokémon to become Ice -type, and increase in power by 20%."
+Wind Rider,"Wind Rider gives immunity to wind moves, and causes the Pokémon's Attack to increase by one stage when hit by one."
+Poison Puppeteer,Pokémon poisoned by Pecharunt’s moves will also become confused.
+Reckless,"Reckless increases the power of recoil moves by 20%. By extension, this means the amount of recoil damage taken will increase as more damage is dealt (except for High Jump Kick and Jump Kick which are based on the user's HP)."
+Bad Dreams,Bad Dreams causes all sleeping opponents to lose 1 ⁄ 8 of their maximum HP at the end of each turn.
+Static,"If a Pokémon with Static is hit by a move making contact, there is a 30% chance the foe will become paralyzed."
+Grim Neigh,Boosts Special Attack after knocking out a Pokémon.
+Iron Barbs,"When a Pokémon with Iron Barbs is hit by a move that makes contact, the attacker receives damage equal to 1 ⁄ 8 of their maximum HP."
+Mirror Armor,Reflects any stat-lowering effects.
+Flame Body,"If a Pokémon with Flame Body is hit by a move that makes contact, there is a 30% chance the attacker will become burned."
+Victory Star,Boosts the accuracy of its allies and itself.
+Anger Point,Anger Point raises the ability-bearer's Attack to its maximum level - +6 stages or 4× usual power - when a move targeting it receives a critical hit.
+Vessel of Ruin,Lowers Special Attack of all Pokémon except itself.
+Steam Engine,Steam Engine raises the user's Speed by three stages when it is hit by a Fire- or Water-type attack. The attack still deals damage.
+Strong Jaw,Strong Jaw increases the power of all biting moves by 50%.
+Steadfast,Raises Speed each time the Pokémon flinches.
+Thick Fat,Thick Fat reduces the damage taken from Fire -type and Ice -type moves by 50%.
+Stance Change,"Stance Change is exclusive to Aegislash . When using a damage-dealing move, Aegislash switches to its Blade Forme. When using the move King's Shield , Aegislash switches to its Shield Forme."
+Simple,"The Simple ability doubles the number of stages of all stat changes. Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each."
+Opportunist,Copies stat boosts by the opponent.
+Stalwart,Ignores moves and abilities that draw in moves.
+Shed Skin,The Pokémon may heal its own status problems.
+Quick Draw,""
+Prism Armor,"Prism Armor reduces the damage taken from super-effective attacks by 25%. It is not affected by the abilities Mold Breaker , Teravolt , or Turboblaze ."
+Liquid Voice,Liquid Voice causes all sound-based moves used by the Pokémon to become Water type. Water type Pokémon also gain STAB from those moves.
+Perish Body,"When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle."
+Scrappy,Enables moves to hit Ghost-type Pokémon.
+Pickup,"When another Pokémon on the field uses a single-use held item, a Pokémon with Pickup will obtain the used item (if they are not already holding anything) and it can be used again."
+Aura Break,"Aura Break cancels the effects of the abilities Fairy Aura and Dark Aura and instead reduces the power of Dark-type and Fairy-type moves by 25%, for all Pokémon on the field."
+Zen Mode,Zen Mode changes the ability-bearer's form to Zen Mode when their health falls below 50%.
+Power Construct,"Power Construct is unique to Zygarde. When Zygarde 10% Forme or Zygarde 50% Forme falls below half HP, it changes into Zygarde Complete Forme."
+Suction Cups,"Suction Cups prevents opponents forcing the ability-bearer to switch out or flee via the moves Roar , Whirlwind , Circle Throw , or Dragon Tail , or the item Red Card ."
+Propeller Tail,Ignores moves and abilities that draw in moves.
+Commander,Goes inside the mouth of an ally Dondozo if one is on the field.
+Arena Trap,Arena Trap prevents opponents from fleeing or switching out. Raised Pokémon are not affected.
+Leaf Guard,"Leaf Guard prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather."
+Download,"Download raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses."
+RKS System,Changes type depending on held item.
+Technician,Technician increases the power of moves - that are usually base power 60 or below - by 50%.
+Teravolt,"Teravolt prevents a target's ability from affecting moves that the Teravolt Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves."
+Hospitality,"When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP."
+Tangling Hair,Contact with the Pokémon lowers the attacker's Speed stat.
+Chlorophyll,Chlorophyll doubles the ability-bearer's Speed during bright sunshine .
+Battle Armor,Battle Armor prevents the Pokémon from receiving a critical hit.
+Swarm,Swarm increases the power of Bug -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch ).
+Good as Gold,Gives immunity to status moves.
+Multiscale,Reduces damage when HP is full.
+Hyper Cutter,"Hyper Cutter prevents the bearer's Attack stat from being lowered by other Pokémon, through moves such as Growl or abilities such as Intimidate ."
+Gorilla Tactics,Boosts the Pokémon's Attack stat but only allows the use of the first selected move.
+Quick Feet,"Quick Feet raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pokémon does not suffer the usual drop in Speed."
+Comatose,"Comatose causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze)."
+Unburden,Raises Speed if a held item is used.
+Minus,Ups Sp. Atk if another Pokémon has Plus or Minus.
+Ice Scales,Halves damage from Special moves.
+Hadron Engine,"Creates an Electric Terrain when entering battle, and boosts Special Attack while active."
+Sword of Ruin,Lowers Defense of all Pokémon except itself.
+Delta Stream,Delta Stream creates strong winds when the ability is activated (by Rayquaza Mega-Evolving).
+Sand Veil,Sand Veil raises the ability-bearer's evasion by 20% in a sandstorm . It also gives immunity to sandstorm damage (if they are not already protected by being Ground / Rock / Steel type).
+Steelworker,Steelworker increases the power of Steel-type moves used by this Pokémon by 50%.
+Corrosion,"Corrosion allows the bearer to poison any Pokémon, including Steel and Poison types."
+Thermal Exchange,Raises Attack when hit by a Fire-type move. Cannot be burned.
+Gulp Missile,"Gulp Missile is the signature ability of Cramorant . If Cramorant uses the move Surf or Dive , it returns with a fish in its mouth. If Cramorant then takes damage, it retaliates by spitting out the fish, dealing extra damage."
+Storm Drain,"Storm Drain forces all single-target Water -type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. The ability is most useful in double/triple battles."
+Toxic Boost,Powers up physical attacks when poisoned.
+Ice Face,"Ice Face is the signature ability of Eiscue . It allows the Pokémon to take a physical attack without taking damage. After the attack, Eiscue changes to its No Ice Face form, however, it can be restored in hail."
+Own Tempo,Prevents the Pokémon from becoming confused.
+Costar,Copies ally's stat changes on entering battle.
+Regenerator,A Pokémon with Regenerator restores 1 ⁄ 3 of its maximum HP when switching out.
+Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+Bulletproof,Bulletproof makes the Pokémon immune to ball and bomb moves.

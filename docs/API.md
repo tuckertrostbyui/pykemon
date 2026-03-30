@@ -1,8 +1,8 @@
 # API
 
-::: pypackage_template.template_package.multiply
+::: pykemon.template_package.multiply
 
 
-::: pypackage_template.add_numbers.add
+::: pykemon.add_numbers.add
 
-::: pypackage_template.add_numbers
+::: pykemon.add_numbers

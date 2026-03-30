@@ -140,3 +140,9 @@ dmypy.json
 
 # MacOS
 .DS_Store
+
+test_file.py
+data-raw/raw/pokemon_test_moves.csv
+data-raw/raw/pokemon_moves.csv
+data-raw/raw/pokemon_test.csv
+data-raw/raw/pokemon_ability.csv

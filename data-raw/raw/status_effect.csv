@@ -1,0 +1,7 @@
+name,abbreviation,end_of_turn_damage,speed_modifier,attack_modifier,max_turns,effect
+burn,BRN,0.0625,,0.5,,"Loses 1/16 HP per turn, attack halved"
+paralysis,PAR,,0.5,,,"Speed halved, 25% chance to be fully paralyzed"
+poison,PSN,0.125,,,,Loses 1/8 HP per turn
+bad_poison,TOX,,,,,"Damage increases each turn (1/16, 2/16, ... up to 15/16)"
+sleep,SLP,,,,5,Cannot move for 1-5 turns
+freeze,FRZ,,,,1,"Cannot move, thaws on fire moves or 20% chance per turn"

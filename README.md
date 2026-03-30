@@ -4,14 +4,14 @@ We are following the guide from [Python Packages](https://py-pkgs.org/welcome) b
 
 ## Files to change once template is copied
 
-These files/folders largely need to be edited to use the name of your package instead of the `pypackage_template` name. The `pyproject.toml` will also need author editing.
+These files/folders largely need to be edited to use the name of your package instead of the `pykemon` name. The `pyproject.toml` will also need author editing.
 
-- [`tests/test_template_package.py`](https://github.com/byuirpytooling/pypackage_template/blob/main/tests/test_template_package.py)
-- [`src/pypackage_template`](https://github.com/byuirpytooling/pypackage_template/tree/main/src/pypackage_template)
-- [`src/pypackage_template/__init__.py`](https://github.com/byuirpytooling/pypackage_template/blob/main/src/pypackage_template/__init__.py)
-- [`main/pyproject.toml`](https://github.com/byuirpytooling/pypackage_template/blob/main/pyproject.toml)
-- [`mkdocs.yml`](https://github.com/byuirpytooling/pypackage_template/blob/main/mkdocs.yml)
-- [`docs/API.md`](https://github.com/byuirpytooling/pypackage_template/blob/main/docs/API.md)
+- [`tests/test_template_package.py`](https://github.com/byuirpytooling/pykemon/blob/main/tests/test_template_package.py)
+- [`src/pykemon`](https://github.com/byuirpytooling/pykemon/tree/main/src/pykemon)
+- [`src/pykemon/__init__.py`](https://github.com/byuirpytooling/pykemon/blob/main/src/pykemon/__init__.py)
+- [`main/pyproject.toml`](https://github.com/byuirpytooling/pykemon/blob/main/pyproject.toml)
+- [`mkdocs.yml`](https://github.com/byuirpytooling/pykemon/blob/main/mkdocs.yml)
+- [`docs/API.md`](https://github.com/byuirpytooling/pykemon/blob/main/docs/API.md)
 
 ## Differences from the Python Packages book
 
@@ -40,7 +40,7 @@ We will use [uv](https://docs.astral.sh/uv/guides/install-python/) instead of [c
 ### Install a package from Github repository
 
 ```bash
-uv pip install "git+https://github.com/byuirpytooling/pypackage_template.git@main"
+uv pip install "git+https://github.com/byuirpytooling/pykemon.git@main"
 ```
 
 ### Installing the package in development into the Python environment 
@@ -60,7 +60,7 @@ uv pip install -e .
 ## Directory structure
 
 ```bash
-pypackage_template
+pykemon
 ├── .readthedocs.yml           ┐
 ├── CHANGELOG.md               │
 ├── CONDUCT.md                 │
@@ -79,7 +79,7 @@ pypackage_template
 ├── README.md                  ┘
 ├── pyproject.toml             ┐ 
 ├── src                        │
-│   └── pypackage_template     │ Package source code, metadata,
+│   └── pykemon     │ Package source code, metadata,
 │       ├── __init__.py        │ and build instructions 
 │       └── pycounts.py        ┘
 └── tests                      ┐
