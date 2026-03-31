@@ -14,8 +14,11 @@ dependencies = [
     "requests>=2.33.0",
 ]
 authors = [
-  { name = "J. Hathaway", email = "hathawayj@byui.edu" },
-  { name = "Co Author", email = "coauthor@example.com" }
+  { name = "Jonathan Oliphant", email = "oli23020@byui.edu" },
+  { name = "Mitchell Mecham", email = "mec21017@byui.edu" },
+  { name = "Caleb Peterson", email = "pet22063@byui.edu" },
+  { name = "Tucker Trost", email = "tro18011@byui.edu" },
+
 ]
 
 # optional, if you want to distinguish current maintainers
